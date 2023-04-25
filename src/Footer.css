@@ -1,0 +1,23 @@
+.footer {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  font-weight: 100;
+  width: 100%;
+}
+.footer h2 {
+  font-size: 15px;
+}
+
+.footer ul li {
+  list-style-type: none;
+  text-decoration: underline;
+  font-size: 15px;
+  padding: 5px;
+}
+
+.contacts {
+  font-size: 15px;
+  color: white;
+}
